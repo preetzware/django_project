@@ -28,8 +28,10 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '127.0.0.1',  # for local development
     'localhost',  # for local development
-    '8000-preetzware-djangoprojec-bjcbjz30mys.ws-eu115.gitpod.io',
-    'my-first-django-application-010acf81d7c9.herokuapp.com']
+    '8000-preetzware-djangoprojec-bjcbjz30mys.ws-eu115.gitpod.io',  # Gitpod URL
+    '.herokuapp.com',  # Allows any subdomain of herokuapp.com
+    'my-first-django-application-010acf81d7c9.herokuapp.com',
+    ]
 
 
 # Application definition
