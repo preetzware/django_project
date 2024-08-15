@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',  # for local development
     'localhost',  # for local development
     '8000-preetzware-djangoprojec-bjcbjz30mys.ws-eu115.gitpod.io',
-    'my-first-django-application.herokuapp.com']
+    '.herokuapp.com']
 
 
 # Application definition
